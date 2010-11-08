@@ -1,0 +1,2 @@
+      ivan      ivanov    20    direktor   2000lv
+     petar      peshev    24    chistach    200lv
