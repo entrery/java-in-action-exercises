@@ -12,8 +12,6 @@ public class Exercise1 {
 	   String name="",lastName="",post="",age="",salary="";
 	   PrintWriter pw = new PrintWriter((new FileWriter(new File("Sample.txt"), true)),true);
        
-       //FileWriter fstream = new FileWriter("Sample.txt",true);
-	   //BufferedWriter out = new BufferedWriter(fstream);
 	    
 	   System.out.println("name:");
 	   name=sc.nextLine();
